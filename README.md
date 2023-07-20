@@ -3,7 +3,7 @@
 Assignment is to build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
 
 # Tools and Methods Used:
-JavaScript: libraries: D3, Plotly
+JavaScript: libraries: d3, Plotly
 
 # Process
 * Data collected through D# API call to NC State Public Science Lab
